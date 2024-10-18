@@ -1,0 +1,46 @@
+body {
+    background-color: brown;
+    color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: orange;
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: orange;
+    height: 100px;
+    margin-top: 40px;
+}
+
+h1 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 0px 0px 50px;
+    padding: 0px;
+    line-height: 150px;
+}
+
+h2, a {
+    color: orange;
+    padding-bottom: 5px;
+}
+
+article, form, h2 {
+    background-color: pink;
+    width: 500px;
+    display: table;
+    margin: 0px 200px 0px auto;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+.top-menu {
+    color: black;
+    margin: 0px 0px 0px 50px;
+}
